@@ -4,4 +4,4 @@ Grupo desarrollado para la formación de integrantes que siguen la filosofía de
 
 ## Proyectos
 
-- [2024-I]()
+- [2024-I](https://github.com/GLUDCiencias/GNUBIES/tree/main/proyectos/2024-I)
